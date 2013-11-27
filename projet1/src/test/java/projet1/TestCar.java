@@ -20,6 +20,7 @@ public class TestCar {
 	public void test() {
 		
 		assertEquals("Polo5", car.getModel() );
+		System.out.println("woh!");
 		
 	}
 
