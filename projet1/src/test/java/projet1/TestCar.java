@@ -19,7 +19,7 @@ public class TestCar {
 	@Test
 	public void test() {
 		
-		assertEquals("polo5", car.getModel() );
+		assertEquals("Polo5", car.getModel() );
 		
 	}
 
